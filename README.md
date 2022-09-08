@@ -16,6 +16,10 @@ qb-menu - https://github.com/qbcore-framework/qb-menu
 
 qb-input - https://github.com/qbcore-framework/qb-input
 
+## Optional :
+
+MLO - https://mxc-shop.tebex.io/category/mlo --- This is what the script is set for if you dont have it youll have to change all the zones
+
 ## Updates in the future
 
 - Vape script for using vapes

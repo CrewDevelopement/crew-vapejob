@@ -1,6 +1,6 @@
 # Vape Shop Job for QBCore Framework
 
-Preview : Coming Soon
+Preview : https://streamable.com/dmvjog
 
 Supports oxmysql and ghmattimysql
 
